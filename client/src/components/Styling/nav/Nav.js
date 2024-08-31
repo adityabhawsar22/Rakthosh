@@ -11,7 +11,7 @@ const Nav = () => {
       <div className="d-flex align-items-center">
         <img src={profile} className="profile_img" alt="profile img" />
         <div className="ml-3">
-          <p className="text-bold">Welcome, Richey</p>
+          <p className="text-bold">Welcome</p>
         </div>
       </div>
     </div>

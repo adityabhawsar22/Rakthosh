@@ -22,6 +22,8 @@ const getDonarsListController = async (req, res) => {
     });
   }
 };
+
+
 //GET HOSPITAL LIST
 const getHospitalListController = async (req, res) => {
   try {
@@ -44,6 +46,8 @@ const getHospitalListController = async (req, res) => {
     });
   }
 };
+
+
 //GET ORG LIST
 const getOrgListController = async (req, res) => {
   try {
